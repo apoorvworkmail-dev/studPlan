@@ -8,6 +8,7 @@ function Dashboard(
     return (
         <div
         style = {{
+            backgroundColor: "#f0f0f0",
             display: "flex",
             justifyContent: "space-between",
             marginBottom: "20px",
